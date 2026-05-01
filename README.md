@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Naman 👋
 
-<!--
-**namanshukla25/namanshukla25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Data Analyst  
+📊 Skilled in Python, Pandas, Matplotlib  
+🚀 Building real-world data projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+- 🛒 Ecommerce Data Analysis Project (with Dashboard)
+
+---
+
+## 🛠 Tech Stack
+- Python  
+- SQL  
+- Pandas  
+- Matplotlib  
+- Streamlit  
+
+---
+
+## 📊 Currently Learning
+- Advanced SQL  
+- Data Visualization  
+- Dashboard Development  
+
+---
+
+## 📫 Connect with me
+(LinkedIn link add karenge baad me)
