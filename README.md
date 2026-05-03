@@ -19,6 +19,28 @@
 - Streamlit  
 
 ---
+# 📊 E-commerce Sales Dashboard
+
+## 🚀 Project Overview
+This project analyzes e-commerce sales data and provides interactive visual insights using Streamlit.
+
+## 📈 Features
+- Data Cleaning & Processing
+- Interactive Dashboard
+- Sales & Profit Analysis
+- Category Filtering
+- Heatmap Visualization
+
+## 🖥️ Dashboard Preview
+
+![Dashboard](output/monthly_sales.png)
+![Dashboard](output/category_sales.png)
+![Dashboard](output/heatmap.png)
+
+## ▶ Run Locally
+```bash
+pip install -r requirements.txt
+streamlit run app.py
 
 ## 📊 Currently Learning
 - Advanced SQL  
