@@ -1,53 +1,68 @@
-# Hi, I'm Naman 👋
+# Hi, I'm Naman Shukla 👋
 
-💻 Aspiring Data Analyst  
-📊 Skilled in Python, Pandas, Matplotlib  
-🚀 Building real-world data projects  
+### Aspiring Data Analyst | SQL | Power BI | Excel | Python
 
----
+I am a B.Tech Computer Science student and an aspiring Data Analyst interested in turning data into meaningful business insights.
 
-## 🔥 Projects
-- 🛒 Ecommerce Data Analysis Project (with Dashboard)
+I enjoy working with data, building dashboards, writing SQL queries, and creating practical analytics projects.
 
 ---
 
-## 🛠 Tech Stack
-- Python  
-- SQL  
-- Pandas  
-- Matplotlib  
-- Streamlit  
+## 🛠️ Skills & Tools
 
----
-# 📊 E-commerce Sales Dashboard
-
-## 🚀 Project Overview
-This project analyzes e-commerce sales data and provides interactive visual insights using Streamlit.
-
-## 📈 Features
-- Data Cleaning & Processing
-- Interactive Dashboard
-- Sales & Profit Analysis
-- Category Filtering
-- Heatmap Visualization
-
-## 🖥️ Dashboard Preview
-
-![Dashboard](output/monthly_sales.png)
-![Dashboard](output/category_sales.png)
-![Dashboard](output/heatmap.png)
-
-## ▶ Run Locally
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-
-## 📊 Currently Learning
-- Advanced SQL  
-- Data Visualization  
-- Dashboard Development  
+- **Data Analysis:** Excel, Advanced Excel, Python, Pandas
+- **Database:** MySQL, SQL
+- **Data Visualization:** Power BI, Tableau, Matplotlib
+- **Concepts:** Data Cleaning, Data Visualization, Statistics, Dashboard Development
+- **Programming:** Python, C, C++, OOP, DBMS
 
 ---
 
-## 📫 Connect with me
-(LinkedIn link add karenge baad me)
+## 📊 Featured Projects
+
+### 🏦 Bank Management & Customer Analytics
+**MySQL | SQL | Power BI**
+
+- Designed a relational banking database with customers, accounts, branches, transactions, loans and employees.
+- Used JOINs, CTEs, subqueries, CASE statements, aggregate functions and window functions.
+- Built an interactive Power BI dashboard for customer, transaction, account and loan analysis.
+
+🔗 [View Project](https://github.com/namanshukla25/Bank-Management-Analytics)
+
+---
+
+### 🛒 Ecommerce Data Analysis
+**Python | Pandas | Matplotlib | Streamlit**
+
+- Cleaned and analyzed ecommerce sales data using Python and Pandas.
+- Performed data visualization and generated business insights.
+- Built an interactive Streamlit dashboard for ecommerce analysis.
+
+🔗 [View Project](https://github.com/namanshukla25/Ecommerce_Project)
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL
+- Power BI & DAX
+- Data Analytics
+- Business Intelligence
+- Advanced Excel
+
+---
+
+## 🎯 Career Goal
+
+To start my career as a **Data Analyst** and use data-driven insights to support business decisions.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/namanshukla25/)
+- 🐙 [GitHub](https://github.com/namanshukla25)
+
+---
+
+⭐ Feel free to explore my repositories and projects.
