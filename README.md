@@ -1,68 +1,93 @@
+
+<div align="center">
+
 # Hi, I'm Naman Shukla 👋
 
-### Aspiring Data Analyst | SQL | Power BI | Excel | Python
+### Aspiring Data Analyst | SQL • Power BI • Excel • Python
 
-I am a B.Tech Computer Science student and an aspiring Data Analyst interested in turning data into meaningful business insights.
+Turning raw data into meaningful insights and business decisions.
 
-I enjoy working with data, building dashboards, writing SQL queries, and creating practical analytics projects.
+<a href="https://linkedin.com/in/naman-shukla-23276b293">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/namanshukla25">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
 
----
-
-## 🛠️ Skills & Tools
-
-- **Data Analysis:** Excel, Advanced Excel, Python, Pandas
-- **Database:** MySQL, SQL
-- **Data Visualization:** Power BI, Tableau, Matplotlib
-- **Concepts:** Data Cleaning, Data Visualization, Statistics, Dashboard Development
-- **Programming:** Python, C, C++, OOP, DBMS
+</div>
 
 ---
 
-## 📊 Featured Projects
+## 👨‍💻 About Me
+
+I'm a Computer Science graduate-in-progress focused on Data Analytics and Business Intelligence.
+
+- 📊 Interested in data analysis, visualization, and business insights.
+- 🧹 Practicing data cleaning, exploratory data analysis, and reporting.
+- 📈 Building projects using SQL, Python, Excel, and Power BI.
+- 🎯 Goal: Start my career as a Data Analyst and solve real-world business problems.
+
+## 🛠️ Skills & Technologies
+
+| Category | Technologies |
+|---|---|
+| Data Analysis | Excel, Advanced Excel, Pandas |
+| Databases | SQL, MySQL |
+| Visualization | Power BI, Tableau, Matplotlib |
+| Programming | Python, C, C++ |
+| Core Concepts | Data Cleaning, Statistics, EDA, DBMS, OOP |
+
+## 🚀 Featured Projects
 
 ### 🏦 Bank Management & Customer Analytics
-**MySQL | SQL | Power BI**
+**Tools:** MySQL, SQL, Power BI
 
-- Designed a relational banking database with customers, accounts, branches, transactions, loans and employees.
-- Used JOINs, CTEs, subqueries, CASE statements, aggregate functions and window functions.
-- Built an interactive Power BI dashboard for customer, transaction, account and loan analysis.
+- Designed a relational banking database.
+- Practiced JOINs, subqueries, CTEs, CASE statements, and window functions.
+- Explored banking data to support customer and transaction analysis.
 
-🔗 [View Project](https://github.com/namanshukla25/Bank-Management-Analytics)
+🔗 [View Repository](https://github.com/namanshukla25)
 
----
+### 🛒 Ecommerce Data Analytics
+**Tools:** Python, Pandas, Matplotlib, Streamlit
 
-### 🛒 Ecommerce Data Analysis
-**Python | Pandas | Matplotlib | Streamlit**
+- Cleaned and analyzed ecommerce data.
+- Explored sales and profit trends through visualizations.
+- Developed an interactive dashboard to present insights.
 
-- Cleaned and analyzed ecommerce sales data using Python and Pandas.
-- Performed data visualization and generated business insights.
-- Built an interactive Streamlit dashboard for ecommerce analysis.
+🔗 [Explore My Repositories](https://github.com/namanshukla25?tab=repositories)
 
-🔗 [View Project](https://github.com/namanshukla25/Ecommerce_Project)
+### ☕ Cafe Sales — Data Analytics
+**Tools:** Python, Pandas, Power BI
 
----
+- Performed data cleaning and exploratory data analysis.
+- Investigated product performance, revenue, and transaction patterns.
+- Created a dashboard to communicate key findings.
+
+🔗 [Browse SWYNEX Projects](https://github.com/namanshukla25?tab=repositories)
 
 ## 📚 Currently Learning
 
-- Advanced SQL
-- Power BI & DAX
-- Data Analytics
-- Business Intelligence
-- Advanced Excel
+- Advanced SQL and analytical queries
+- Power BI, DAX, and dashboard design
+- Advanced Excel and business reporting
+- Practical data analytics and problem-solving
 
----
+## 📊 GitHub Activity
 
-## 🎯 Career Goal
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namanshukla25&show_icons=true&theme=tokyonight&hide_border=true)
 
-To start my career as a **Data Analyst** and use data-driven insights to support business decisions.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namanshukla25&layout=compact&theme=tokyonight&hide_border=true)
 
----
+## 🤝 Let's Connect
 
-## 📫 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/namanshukla25/)
+- 💼 [LinkedIn](https://linkedin.com/in/naman-shukla-23276b293)
 - 🐙 [GitHub](https://github.com/namanshukla25)
 
----
+I'm always interested in learning, building projects, and exploring opportunities in Data Analytics.
 
-⭐ Feel free to explore my repositories and projects.
+<div align="center">
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
